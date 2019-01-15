@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><c3p0-config>
+   <!--默认配置-->
+    <default-config>  
+        <property name="driverClass">com.mysql.cj.jdbc.Driver</property>  
+        <property name="jdbcUrl"><![CDATA[jdbc:mysql://localhost:3306/cake?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT&useSSL=false&zeroDateTimeBehavior=convertToNull&serverTimezone=UTC]]></property>  
+        <property name="user">root</property>  
+        <property name="password">19951110l</property> 
+    </default-config>  
+</c3p0-config>
